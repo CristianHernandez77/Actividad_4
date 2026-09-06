@@ -22,7 +22,7 @@ La discusión comienza a generar tensión dentro del grupo porque algunos miembr
 
 ### Problema principal de comunicación en el grupo
 
-[Describe aquí cuál es el problema principal de comunicación en el grupo]
+El principal conflicto que vimos en el escenario propuesto es que no hay un buena comunicacion entre los miembros del equipo, no se expresan ideas a tiempo ni se someten a votacion, como en el ejemplo un integrante no pregunto a los demas que les parecia su propuesta y solo quiso hacer y deshacer sin antes preguntar, eso no es tener una buena comunicacion con el equipo de trabajo, esto genero una discucion ya que al no considerar la opinion de los demas tus ideas y las de ellos chocan entonces es necesario expresarse de manera conciente y empatica.
 
 ---
 

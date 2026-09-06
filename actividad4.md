@@ -79,20 +79,79 @@ Como todo se salio de control y se pusieron a discutir los demas se sintieron in
 
 ### Influencia del tono de voz
 
-[Explica cómo el tono de voz influye en la situación y cómo puede mejorarse]
+#### ¿Cómo influye?
+
+Un tono elevado o cortante se percibe como agresión.
+
+El sarcasmo o la impaciencia generan resentimiento.
+
+Un tono monótono transmite desinterés.
+
+#### ¿Cómo mejorar?
+
+Hablar con un tono calmado y respetuoso.
+
+Hacer pausas antes de responder para evitar impulsividad.
+
+Usar un tono que refleje apertura a escuchar.
 
 ---
 
 ### Influencia del lenguaje corporal
 
-[Explica cómo el lenguaje corporal influye en la situación y cómo puede mejorarse]
+#### ¿Cómo influye?
+
+**Brazos cruzados**  actitud defensiva o rechazo.
+
+**Evitar contacto visual**  desinterés o falta de respeto.
+
+**Señalar con el dedo**  se percibe como acusación.
+
+**Postura inclinada hacia atrás**  desinterés en la conversación.
+
+**Movimientos nerviosos** ansiedad o impaciencia.
+
+**Expresión facial seria o con ceño fruncido** enfado o desaprobación.
+
+#### ¿Cómo mejorar?
+
+Mantener postura abierta y relajada.
+
+Contacto visual con quien habla.
+
+Asentir para mostrar que se está escuchando.
+
+Inclinarse ligeramente hacia adelante para mostrar interés.
+
+Evitar gestos bruscos o acusatorios.
+
+Mantener expresión facial receptiva.
 
 ---
 
 ### Influencia de la actitud durante la discusión
 
-[Explica cómo la actitud influye en la situación y cómo puede mejorarse]
+#### ¿Cómo influye?
 
+**Actitud defensiva**  impide la escucha objetiva.
+
+**Actitud de superioridad**  genera resentimiento.
+
+**Actitud de victimismo**  crea lastima en lugar de colaboración.
+
+**Actitud de indiferencia**  desmotiva a los demás.
+
+**Actitud de confrontación** convierte el diálogo en batalla.
+
+#### ¿Cómo mejorar?
+
+Adoptar una actitud colaborativa.
+
+Reconocer que todos pueden aportar ideas valiosas.
+
+No tomar las críticas como ataques personales.
+
+Enfocarse en soluciones, no en culpas.
 ---
 
 ## 6. Reflexión final
@@ -120,5 +179,5 @@ Como todo se salio de control y se pusieron a discutir los demas se sintieron in
 | Integrante | Contribución |
 |------------|--------------|
 | [Nombre 1] | [Aporte realizado] |
-| [Nombre 2] | [Aporte realizado] |
+| Cristian | Reflexion del lenguaje no verbal|
 | [Nombre 3] | [Aporte realizado] |

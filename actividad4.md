@@ -120,5 +120,5 @@ Como todo se salio de control y se pusieron a discutir los demas se sintieron in
 | Integrante | Contribución |
 |------------|--------------|
 | [Nombre 1] | [Aporte realizado] |
-| [Nombre 2] | [Aporte realizado] |
+|  Wilvi Herrera | Aporte Realizado:  Análisis de problema, Factores del conflicto, errores de comunicación, Dialogo Conflictivo, Mejora del dialogo |
 | [Nombre 3] | [Aporte realizado] |

@@ -24,6 +24,10 @@ La discusión comienza a generar tensión dentro del grupo porque algunos miembr
 
 El principal conflicto que vimos en el escenario propuesto es que no hay un buena comunicacion entre los miembros del equipo, no se expresan ideas a tiempo ni se someten a votacion, como en el ejemplo un integrante no pregunto a los demas que les parecia su propuesta y solo quiso hacer y deshacer sin antes preguntar, eso no es tener una buena comunicacion con el equipo de trabajo, esto genero una discucion ya que al no considerar la opinion de los demas tus ideas y las de ellos chocan entonces es necesario expresarse de manera conciente y empatica.
 
+Tambien notamos que la presion del tiempo tubo un gran protagonimo en este conflicto, talvez los demas integrantes estaban ya estresados y apresurados, hacer cambios a ultima hora no es ser considerado con el grupo, esto genero que molestia y tambien origino el problema.
+
+Como todo se salio de control y se pusieron a discutir los demas se sintieron incomodos e excluidos porque no estaban siendo escuchados.
+
 ---
 
 ### Factores que provocaron el conflicto o malentendido

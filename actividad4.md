@@ -1,4 +1,4 @@
-# Actividad 6 - Mejora de la comunicación en el levantamiento de requisitos
+# Actividad 4 - Mejora de la comunicación en el levantamiento de requisitos
 
 ## Datos del grupo
 
@@ -107,14 +107,6 @@ La discusión comienza a generar tensión dentro del grupo porque algunos miembr
 ### 3. ¿Por qué es importante mantener una comunicación respetuosa durante el trabajo en equipo?
 
 [Escribe tu reflexión aquí]
-
----
-
-## 7. Referencias
-
-- Guía de Comunicación Asertiva proporcionada en clase.
-- Presentación S7 – Comunicación Asertiva.
-- Escenario Propuesto.
 
 ---
 

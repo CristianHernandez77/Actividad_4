@@ -6,7 +6,7 @@
 |--------|--------|
 | Cristian Miguel Hernandez Raymundo | 202505139 |
 | Wilvi Rodrigo Herrera Mazariegos  | 202504208 |
-| Nombre  | [Carnet] |
+| Juan Carlos Monzón Morales  | [202500436] |
 
 ---
 
@@ -35,6 +35,7 @@ Como todo se salio de control y se pusieron a discutir los demas se sintieron in
 *   **La presión del tiempo:** La sola idea de hacer modificaciones "a última hora" generó estrés, especialmente para quienes prefieren asegurar ese tiempo para prepararse para la presentación.
 *   **Diferencia de prioridades:** Un integrante se enfoca en que el trabajo no está "suficientemente completo", mientras que otro prioriza que lo que ya está es "suficiente" para tener tranquilidad y tiempo de ensayo
 *   **Sentimiento de exclusión:** La tensión escaló rápidamente porque algunos compañeros empezaron a sentir que sus ideas simplemente no estaban siendo tomadas en cuenta para la decisión.
+*   **Falta de un medio claro para proponer ideas** El equipo no plantea o tiene definido un espacio en donde puedan sugerir ideas o ajustes al trabajo que desean trabajar.
 ---
 
 ### Errores de comunicación cometidos durante la discusión
@@ -42,6 +43,7 @@ Como todo se salio de control y se pusieron a discutir los demas se sintieron in
 *   **Falta de escucha activa:** Como varios miembros se sintieron ignorados, es evidente que el equipo estaba discutiendo sin escucharse realmente entre sí.
 *   **Tomarse las cosas a mal:** Al volverse la comunicación confusa, los integrantes empezaron a interpretar los comentarios de forma negativa o como ataques personales, en lugar de verlos como opiniones sobre el proyecto
 *   **Cero empatía:** Ninguno hizo el esfuerzo de entender la preocupación del otro (el miedo a una mala nota por un trabajo incompleto frente al miedo a equivocarse por falta de ensayo).
+*   **Generalización de una situación** Los miembros toman de forma negativa cualquier tipo de mensaje que sea una critica a su trabajo que no sea buena por lo que causan malentendidos. 
 
 ---
 
@@ -158,26 +160,26 @@ Enfocarse en soluciones, no en culpas.
 
 ### 1. ¿Qué errores de comunicación provocaron el conflicto?
 
-[Escribe tu reflexión aquí]
+El conflicto nacio de una falta de explicaciones claras y directas a la hora de expresar las opiniones de los miembros del grupo y por que no se aplico una escucha activa a cada punto de vista de cada miembro antes de responder. Por lo que al no verse una retroalimentación y un parafraseo de cada punto de cada miembros causo que los comentarios fueran interpretrados como algo negativo y una negación a las ideas en vez de aportarse criticas constructivas.
 
 ---
 
 ### 2. ¿Cómo ayudó la comunicación asertiva a mejorar la situación?
 
-[Escribe tu reflexión aquí]
+La comunicación asertiva mejoro la situacion al ayudar que cada integrante se expresara lo que sentia sin tener que atacar o dañar al otro, demostrando un cierto grado de respeto a la opiniones de otros. Esto ayudo a que la conversacion con el compañero A y B no escalara y terminara en buenos terminos, y a su vez la interveción del compañero C transformara la conversación y dejara a ambas ideas con una decisión definitiva sin terminar en malos tratos o gritos al otro.
 
 ---
 
 ### 3. ¿Por qué es importante mantener una comunicación respetuosa durante el trabajo en equipo?
 
-[Escribe tu reflexión aquí]
+El respeto es algo importante en la comunicación ya que nos permite resolver los conflictos y discusiones de forma constructiva que ayude a fortalecer la relación y confianza entre los integrantes y mejorar la calidad de los trabajos al tenerse una mejor coordinación con otros compañero por lo que ayuda a fluir mejor las ideas sin que se pierdan a la hora de rechazar o faltarle el respeto a otro compañero por malentendidos prevenibles.
 
 ---
 
-## 8. Contribuciones del equipo
+## 7. Contribuciones del equipo
 
 | Integrante | Contribución |
 |------------|--------------|
 |  Cristian Hernandez | Reflexion lenguaje no verbal |
 |  Wilvi Herrera | Aporte Realizado:  Análisis de problema, Factores del conflicto, errores de comunicación, Dialogo Conflictivo, Mejora del dialogo |
-| [Nombre 3] | [Aporte realizado] |
+| Juan Carlos Monzón Morales | Reflexión final |

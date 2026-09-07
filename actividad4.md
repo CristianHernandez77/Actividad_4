@@ -178,6 +178,6 @@ Enfocarse en soluciones, no en culpas.
 
 | Integrante | Contribución |
 |------------|--------------|
-| [Nombre 1] | [Aporte realizado] |
-| Cristian | Reflexion del lenguaje no verbal|
+|  Cristian Hernandez | Reflexion lenguaje no verbal |
+|  Wilvi Herrera | Aporte Realizado:  Análisis de problema, Factores del conflicto, errores de comunicación, Dialogo Conflictivo, Mejora del dialogo |
 | [Nombre 3] | [Aporte realizado] |
